@@ -1,0 +1,6 @@
+framework module Pods_Life_Checklist {
+  umbrella header "Pods-Life Checklist-umbrella.h"
+
+  export *
+  module * { export * }
+}

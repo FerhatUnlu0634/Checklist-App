@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "AddItemVC.textFieldShouldReturn(_:):AddItemVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "DataKeeper.sharedInstance">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainVC.loadItems():MainVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "DataKeeper.sharedInstance">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainVC.tableView(_:numberOfRowsInSection:):MainVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "DataKeeper.sharedInstance">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
