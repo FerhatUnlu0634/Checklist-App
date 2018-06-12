@@ -13,7 +13,7 @@ let kAppName = "Life Checklist"
 let appDelegate = UIApplication.shared.delegate as! AppDelegate
 let prefs = UserDefaults.standard
 
-let BG_COLOR = UIColor(red: 115/255, green: 202/255, blue: 116/255, alpha: 1.0)
+let BG_COLOR = UIColor(red: 46/255, green: 204/255, blue: 113/255, alpha: 1.0)
 
 
 let Admob_App_ID =  "ca-app-pub-3467593785713121~1991319896"

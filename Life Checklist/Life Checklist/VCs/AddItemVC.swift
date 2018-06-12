@@ -19,6 +19,7 @@ class AddItemVC: UIViewController, UITextFieldDelegate {
     }
 
     @IBAction func click_btn_Close(_ sender: UIButton) {
+        txtItem.resignFirstResponder()
         self.dismiss(animated: true, completion: nil)
     }
     
