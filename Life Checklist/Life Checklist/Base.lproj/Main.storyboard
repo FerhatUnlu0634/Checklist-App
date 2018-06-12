@@ -40,7 +40,7 @@
                                         <rect key="frame" x="12" y="421" width="351" height="120"/>
                                         <subviews>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="You've Completed 0/0 items" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ysT-kG-Gpu">
-                                                <rect key="frame" x="40" y="12" width="271" height="22"/>
+                                                <rect key="frame" x="36.5" y="12" width="278" height="26"/>
                                                 <fontDescription key="fontDescription" name="MyriadPro-Bold" family="Myriad Pro" pointSize="22"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
@@ -70,7 +70,7 @@
                                                 </userDefinedRuntimeAttributes>
                                             </view>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0%" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="H6O-xb-iBU">
-                                                <rect key="frame" x="159.5" y="90" width="32" height="22"/>
+                                                <rect key="frame" x="159" y="86" width="34.5" height="26"/>
                                                 <fontDescription key="fontDescription" name="MyriadPro-Bold" family="Myriad Pro" pointSize="22"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
@@ -155,7 +155,7 @@
                                         </connections>
                                     </button>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Life Checklist" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eFb-VO-kaa">
-                                        <rect key="frame" x="117" y="28" width="142" height="24"/>
+                                        <rect key="frame" x="115.5" y="26" width="144.5" height="28"/>
                                         <fontDescription key="fontDescription" name="MyriadPro-Bold" family="Myriad Pro" pointSize="24"/>
                                         <nil key="textColor"/>
                                         <nil key="highlightedColor"/>
@@ -240,7 +240,7 @@
                                         </connections>
                                     </button>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Add An Item" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="2wH-rX-ZoW">
-                                        <rect key="frame" x="121.5" y="28" width="132.5" height="24"/>
+                                        <rect key="frame" x="121" y="26" width="133.5" height="28"/>
                                         <fontDescription key="fontDescription" name="MyriadPro-Bold" family="Myriad Pro" pointSize="24"/>
                                         <nil key="textColor"/>
                                         <nil key="highlightedColor"/>
@@ -346,7 +346,7 @@
                                         </connections>
                                     </button>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Settings" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4Bu-sW-HJe">
-                                        <rect key="frame" x="143.5" y="28" width="89" height="24"/>
+                                        <rect key="frame" x="143.5" y="26" width="89" height="28"/>
                                         <fontDescription key="fontDescription" name="MyriadPro-Bold" family="Myriad Pro" pointSize="24"/>
                                         <nil key="textColor"/>
                                         <nil key="highlightedColor"/>
@@ -376,7 +376,7 @@
                                 <rect key="frame" x="12" y="84" width="351" height="128"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="General" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dst-J8-0bJ">
-                                        <rect key="frame" x="12" y="12" width="62" height="24"/>
+                                        <rect key="frame" x="12" y="12" width="70" height="24"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="24" id="lqo-tc-yE3"/>
                                         </constraints>
@@ -385,7 +385,7 @@
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Initial Items" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="CxC-r4-kMf">
-                                        <rect key="frame" x="12" y="45.5" width="116" height="24"/>
+                                        <rect key="frame" x="12" y="45.5" width="112" height="24"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="24" id="vdN-Jd-mLW"/>
                                         </constraints>
@@ -394,7 +394,7 @@
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Reverse Order" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Omg-Uc-WlE">
-                                        <rect key="frame" x="12" y="88" width="139" height="24"/>
+                                        <rect key="frame" x="12" y="88" width="142" height="24"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="24" id="ZxR-fQ-LLZ"/>
                                         </constraints>
@@ -454,7 +454,7 @@
                                 <rect key="frame" x="12" y="232" width="351" height="128"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Advertisements" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oc7-cP-RVw">
-                                        <rect key="frame" x="12" y="12" width="125.5" height="24"/>
+                                        <rect key="frame" x="12" y="12" width="139" height="24"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="24" id="aXi-cP-mVc"/>
                                         </constraints>
@@ -463,7 +463,7 @@
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Remove All Ads" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="tHr-iM-yqG">
-                                        <rect key="frame" x="12" y="45.5" width="151.5" height="24"/>
+                                        <rect key="frame" x="12" y="45.5" width="156" height="24"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="24" id="jJV-0R-UdE"/>
                                         </constraints>
@@ -472,7 +472,7 @@
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Restore Purchases" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="SgL-RP-rVW">
-                                        <rect key="frame" x="12" y="88" width="178" height="24"/>
+                                        <rect key="frame" x="12" y="88" width="185.5" height="24"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="24" id="5yw-Nb-tuo"/>
                                         </constraints>

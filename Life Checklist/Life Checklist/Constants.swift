@@ -22,3 +22,5 @@ let Admob_Interstitial_ID = "ca-app-pub-3467593785713121/6668931504"
 
 
 let IAP_Product_ID = "IAP.Remove.Ads"
+
+let default_Items = ["Good morning", "Good afternoon"]

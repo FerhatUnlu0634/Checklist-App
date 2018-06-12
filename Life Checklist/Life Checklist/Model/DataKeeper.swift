@@ -30,6 +30,11 @@ class DataKeeper: NSObject {
         getReverseOrder()
         getItems()
         getStatus()
+        
+        //add default items
+        if (arr_Items.count == 0) {
+            addDefaultItems()
+        }
     }
     
     func updateAllData() {
@@ -150,5 +155,13 @@ class DataKeeper: NSObject {
             if (status == true) { sum = sum + 1}
         }
         return sum
+    }
+    
+    // add default items
+    func addDefaultItems() {
+        for item in default_Items {
+            arr_Items.append(item)
+            arr_Status.append(false)
+        }
     }
 }
